@@ -11,7 +11,6 @@ public class CafeApp {
                 cafe.identify() + "\n\n" +
                 cafe.operateCafe(barista)
         );
-        public String identify() {
-        return "I am the CafeApp class. I manage baristas and menu items.";
+        
     }
 }
